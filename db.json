@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Noise-Canceling Headphones",
+      "price": 199.99,
+      "category": "Electronics",
+      "image": "/images/headphones.png"
+    },
+    {
+      "id": "2",
+      "title": "Minimalist Smart Watch",
+      "price": 149.99,
+      "category": "Electronics",
+      "image": "/images/watch.png"
+    },
+    {
+      "id": "3",
+      "title": "Vibrant Running Shoes",
+      "price": 89.99,
+      "category": "Fashion",
+      "image": "/images/shoes.png"
+    },
+    {
+      "id": "4",
+      "title": "Premium Leather Wallet",
+      "price": 49.99,
+      "category": "Fashion",
+      "image": "/images/wallet.png"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
